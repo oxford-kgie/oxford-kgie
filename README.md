@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oxford-kgie
 - 👀 I’m interested in learning how to program and become a developer and a creator in the FinTech industries  
-- 🌱 I’m currently studying Civil engineering and learning the fundamentals of cryptography how ro code smart contarcts.
+- 🌱 I’m currently studying Civil engineering and learning the fundamentals of cryptography and how to code smart contarcts.
 - 💞️ I’m looking to collaborate on developing projects and networking with other programmers 
 - 📫 How to reach me   email:semonokgie@gmail.com
 
